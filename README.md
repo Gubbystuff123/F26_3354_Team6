@@ -1,1 +1,1 @@
-#Team 06 - Public Housing Application and Waitlist System
+Team 06 - Public Housing Application and Waitlist System
