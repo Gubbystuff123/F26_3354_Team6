@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Team 06 - Public Housing Application and Waitlist System
-=======
 # README.md - Initial
 
 Team 06 - Public Housing Application and Waitlist System
