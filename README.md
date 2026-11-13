@@ -1,8 +1,6 @@
-# README.md - Initial
+# README.md
 
 Team 06 - Public Housing Application and Waitlist System
-
-# README.md - Updated
 
 # Waitlist Test
 
@@ -36,4 +34,3 @@ and JUnit is configured as its project dependency.
 1. open 'Test/WaitlistManagementTest.java" in IntelliJIDEA
 2. use the "run" option by clicking the green button or right clicking.
 3. make sure / confirm that the tests pass in IntelliJ's test result window.
->>>>>>> fb79a72 (Add project files)
